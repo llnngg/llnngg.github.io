@@ -2016,7 +2016,7 @@ blockquote {
   }
 }
 .edition_info strong {
-color: #4cc552;
+color: #4AA02C;
 }
 strong.torrent_label.tooltip.tl_snatched {
 color: #b5a642;
@@ -2028,8 +2028,8 @@ strong.torrent_label.tooltip.tl_notice {
 color: #b5a642;
 }
 td.td_info span.torrent_links_block {
-color: #4cc552;
+color: #4AA02C;
 }
 div.group_info.clear strong {
-color: #4cc552;
+color: #4AA02C;
 }
